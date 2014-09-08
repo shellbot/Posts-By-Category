@@ -3,7 +3,7 @@
 Plugin Name: Posts By Category
 Plugin URI: http://shellbotics.com/wordpress-plugins/posts-by-category/
 Description: Display posts from a particular category or tag in a variety of ways.
-Version: 0.0.1
+Version: 1.0.0
 Author: Shellbot
 Author URI: http://shellbotics.com
 License: GPLv2 or later
