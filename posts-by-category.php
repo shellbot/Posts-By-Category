@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Posts By Category
-Plugin URI: http://shellbotics.com/wordpress-plugins/posts-by-category/
+Plugin URI: http://codebyshellbot.com/wordpress-plugins/posts-by-category/
 Description: Display posts from a particular category or tag in a variety of ways.
 Version: 1.0.0
 Author: Shellbot
-Author URI: http://shellbotics.com
+Author URI: http://codebyshellbot.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
