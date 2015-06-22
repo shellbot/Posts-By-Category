@@ -34,7 +34,7 @@ Custom settings:
 
 `[sb_category_posts show="10" cat="3" group_by="year"]`
 
-For full list of parameters see [the plugin release page](http://codebyshellbot.com/wordpress-plugins/posts_by_category/ "Posts by Category")
+For full list of parameters see [the plugin release page](http://codebyshellbot.com/wordpress-plugins/posts-by-category/ "Posts by Category")
 
 == Installation ==
 
