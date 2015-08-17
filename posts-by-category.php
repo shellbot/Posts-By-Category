@@ -46,7 +46,7 @@ class sb_posts_by_category {
           /* Check that the user hasn't already clicked to ignore the message */
       	if ( ! get_user_meta($user_id, 'pbc_ignore_admin_notice') ) {
           echo '<div class="updated"><p>';
-          printf(__('This Posts by Category plugin is <a href="%1$s" target="_blank">supported through Patreon</a>. If you find it useful, please consider a small donation. Thanks! | <a href="%2$s">Hide Notice</a>'), 'http://patreon.com/shellbot', '?pbc_admin_notice_ignore=0');
+          printf(__('Posts by Category is <a href="%1$s" target="_blank">supported through Patreon</a>. If you find it useful, please consider a small donation. Thanks! | <a href="%2$s">Hide Notice</a>'), 'http://patreon.com/shellbot', '?pbc_admin_notice_ignore=0');
           echo "</p></div>";
       	}
 

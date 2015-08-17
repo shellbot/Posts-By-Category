@@ -2,8 +2,8 @@
 Contributors: Shellbot
 Tags: category, posts, shortcode, list, tag
 Requires at least: 2.9
-Tested up to: 4.2.2
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3XBQZNXBEHPC
+Tested up to: 4.3
+Donate link: http://patreon.com/shellbot
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
