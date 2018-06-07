@@ -2,7 +2,7 @@
 Contributors: Shellbot
 Tags: category, posts, shortcode, list, tag
 Requires at least: 2.9
-Tested up to: 4.3
+Tested up to: 4.9.6
 Donate link: http://patreon.com/shellbot
 Stable tag: trunk
 License: GPLv2 or later
